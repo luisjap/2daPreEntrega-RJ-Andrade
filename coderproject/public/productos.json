@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ampolleta RGB",
+         "img": "/assets/img/ampolletaRgb.png",
+        "precio": 9990,
+        "stock": 80,
+        "description": "Mejora el ambiente de todo tu hogar",
+        "categoria": "Iluminacion"
+    },
+    {
+        "id": 2,
+        "nombre": "Amazon Alexa",
+         "img": "/assets/img/AmazonAlexa.jpg",
+        "precio": 80000,
+        "stock": 10,
+        "description": "Tu mejor asistente por voz",
+        "categoria": "Audio"
+    },
+    {
+        "id": 3,
+        "nombre": "Cerradura Inteligente",
+         "img": "/assets/img/Cerradura.webp",
+        "precio": 95000,
+        "stock": 12,
+        "description": "La cerradura mas tecnologica y segura del mundo",
+        "categoria": "Seguridad"
+    },
+    {
+        "id": 4,
+        "nombre": "Sensor de Temperatura y Humedad Wifi",
+        "img": "/assets/img/temperatura.png",
+        "precio": 15000,
+        "stock": 40,
+        "description": "Controla la temperatura y humedad de tu hora a tu gusto",
+        "categoria": "Temperatura"
+    }
+]

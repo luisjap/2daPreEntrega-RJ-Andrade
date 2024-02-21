@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.div  {
+    background-color:rgba(39, 39, 39, 0);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+
+
+div ul{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    list-style: none;
+   
+}
+
+div ul li a {
+    text-decoration: none;
+    color: 191919;
+}
